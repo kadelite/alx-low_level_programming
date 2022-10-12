@@ -13,7 +13,7 @@ It aims to learn about function pointers in C language.
 ```
 
 
-### **Files**
+## **Files**
 
 All of the following files are programs written in C:
 

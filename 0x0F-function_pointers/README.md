@@ -1,16 +1,16 @@
 # **Function Pointers**
 
-Project done during Full Stack Software Engineering studies at ALX. 
-It aims to learn about function pointers in C language.
+Project done during **Full Stack Software Engineering studies** at **ALX**. 
+It aims to learn about function pointers in **C language**.
 
 
 ## **Technologies**
 
-```
- C files are compiled using gcc 4.8.4
- C files are written according to the C90 standard
- Tested on Ubuntu 14.04 LTS
-```
+
+* C files are compiled using gcc 4.8.4
+* C files are written according to the C90 standard
+* Tested on Ubuntu 14.04 LTS
+
 
 
 ## **Files**
@@ -31,7 +31,7 @@ All of the following files are programs written in C:
 | 100-main_opcodes.c	| Prints the opcodes of its own main function |
 
 <!-- Link -->
-[Devop](http://mechaatronics.samson@gmail.com) by **ADEKUNLE ADELEKE**
+[Devop](http://mechaatronics.samson@gmail.com "my link") by **ADEKUNLE ADELEKE**
 
 ```C
 int main()

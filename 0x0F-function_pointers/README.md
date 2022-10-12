@@ -32,3 +32,13 @@ All of the following files are programs written in C:
 
 <!-- Link -->
 [Devop](http://mechaatronics.samson@gmail.com) by **ADEKUNLE ADELEKE**
+
+```C
+int main()
+{
+    printf("My name is KADELITE");
+
+    return 0;
+}
+
+```

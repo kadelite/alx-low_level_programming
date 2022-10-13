@@ -13,6 +13,7 @@ It aims to learn about __variadic functions__ in **C language**.
 All of the following files are programs written in __C__:
 
 | Filename	| Description |
+| --------- | ----------- |
 | 0-sum_them_all.c	| Returns the sum of all its parameters |
 | 1-print_numbers.c	| Prints numbers |
 | 2-print_strings.c	| Prints strings |
